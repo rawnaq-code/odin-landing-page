@@ -8,7 +8,7 @@ A landing page built as part of [The Odin Project](https://www.theodinproject.co
 
 ## Live Demo
 
-[View Live Demo](YOUR_GITHUB_PAGES_URL)
+[View Live Demo](https://rawnaq-code.github.io/odin-landing-page/)
 
 ## About the Project
 
